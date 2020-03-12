@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583938399 source:c:\users\tong\desktop\optionbooksecond\main.cpp
+	<iostream>
+	"GenericOption.h"
+
+1583936489 c:\users\tong\desktop\optionbooksecond\genericoption.h
+	<stdio.h>
+
